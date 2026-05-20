@@ -669,7 +669,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false,
+    "issued": true,
     "completedBy": "wsimon1982",
     "completedPR": 17407
   },
